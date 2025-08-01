@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working to Develop Shouty Knot in my spare time, Shouty Knot is Our Games Development and Gamification Studio Based out of Dundee. https://shoutyknot.co.uk/<br><br>Additionally I'm looking for Freelance/Contract/Full-time Software Engineer and Full-Stack 40FE-60BE roles with an interest on working on Cloud Computing solutions.<br><br>I'd love to learn more about .NET framework, Unreal Engine 5 Projects, Unity Project builds for Switch.<br><br>Open to colaberating on Open-Source projects.
+I'm currently working to Develop Shouty Knot in my spare time, Shouty Knot is Our Games Development and Gamification Studio Based out of Dundee. https://shoutyknot.co.uk/<br><br>Additionally I'm looking for Freelance/Contract/Full-time Software Engineer and Full-Stack 40FE-60BE roles with an interest on working on Cloud Computing solutions.<br><br>I'd love to learn more about .NET framework, Unreal Engine 5 Projects, Unity Project builds for Switch.<br><br>Open to colaberating on Open-Source projects. Please reach out (LinkedIn)https://www.linkedin.com/in/josef-wesley-a190902b6/
 
 
 # 💻 Tech Stack:
